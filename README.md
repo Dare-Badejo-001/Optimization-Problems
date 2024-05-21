@@ -1,2 +1,2 @@
 # Optimization-Problems
-Solution to Problems in operations research a
+Solution to Problems in Operations Research 
